@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <url>
+        <loc>/about.html</loc>
+    </url>
+    <url>
+        <loc>/cannabis.html</loc>
+    </url>
+    <url>
+        <loc>/community.html</loc>
+    </url>
+    <url>
+        <loc>/</loc>
+    </url>
+    <url>
+        <loc>/nursing-clinicals.html</loc>
+    </url>
+    <url>
+        <loc>/patient-payment.html</loc>
+    </url>
+    <url>
+        <loc>/registration.html</loc>
+    </url>
+    <url>
+        <loc>/student-payment.html</loc>
+    </url>
+</urlset>
