@@ -54,3 +54,9 @@ h4 {
 .card-body {
 }
 
+@media (min-width: 1400px) {
+  .navbar-nav {
+    font-size: 18px;
+  }
+}
+
