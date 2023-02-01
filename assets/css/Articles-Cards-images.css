@@ -56,7 +56,13 @@ h4 {
 
 @media (min-width: 1400px) {
   .navbar-nav {
-    font-size: 18px;
+    font-size: 17px;
+  }
+}
+
+@media (max-width: 1200px) {
+  .navbar-nav {
+    font-size: 0.8vw;
   }
 }
 
